@@ -12,8 +12,5 @@ public class Admin {
 		this.firstName = firstName;
 	}
 	
-	public void setAgain(double firstName){
-		
-		this.firstName = firstName;
-	}
+
 }
